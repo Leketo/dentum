@@ -1,0 +1,289 @@
+"CONSULTAS",0,"T",1000
+"Consulta",1,"H",1
+"Consulta dia feriado",1,"H",2
+"Consulta a domicilio",1,"H",3
+"Consulta de urgencia",1,"H",253
+"OPERATORIA DENTAL",0,"T",1000
+"Base cavitaria Hidroxido de Calcio",1,"H",138
+"Base cavitaria Fosfato de Zinc",1,"H",139
+"Base cavitaria ionomero vitreo",1,"H",140
+"Restauracion provisoria",1,"H",4
+"Amalgama simple",1,"H",5
+"Amalgama compleja",1,"H",6
+"Resina simple anterior",1,"H",7
+"Resina simple posterior",1,"H",203
+"Resina compleja anterior",1,"H",8
+"Resina compleja posterior",1,"H",204
+"Ionomero Cav.simple",1,"H",9
+"Ionomero Cav.Compuesta",1,"H",10
+"Compomero Cav.simple",1,"H",11
+"Compomero Cav.Compuesta",1,"H",12
+"Reconst.angulo c/amalgama",1,"H",13
+"Reconst.angulo c/resina",1,"H",14
+"Reconst.amalgama c/tornillo",1,"H",15
+"Reconst.resina c/tornillo",1,"H",16
+"Incrustacion resina",1,"H",17
+"Incrustacion porcelana",1,"H",18
+"Incrustacion metalica",1,"H",19
+"Incrustacion oro",1,"H",20
+"Incrust.a perno con oro",1,"H",21
+"Incrust.a perno otro metal",1,"H",22
+"Carilla resina",1,"H",23
+"Carilla porcelana",1,"H",24
+"Tratamiento con laser operatoria",1,"H",250
+"ENDODONCIA",0,"T",1000
+"Proteccion pulpar indirecta",1,"H",29
+"Proteccion pulpar directa",1,"H",30
+"Pulpotomia",1,"H",31
+"T.C. unirradicular",1,"H",32
+"T.C. birradicular",1,"H",33
+"T.C. multirradicular",1,"H",34
+"Retrat.unirradicular",1,"H",254
+"Retrat.birradicular",1,"H",255
+"Retrat.multirradicular",1,"H",256
+"Neoformacion apical",1,"H",226
+"Tratamiento con laser endodoncia",1,"H",251
+"PROTESIS CONVENCIONAL",0,"T",1000
+"Perno provisorio",1,"H",25
+"Perno simple",1,"H",26
+"Perno seccionado",1,"H",27
+"Perno preformado",1,"H",28
+"Perno pasante",1,"H",202
+"Perno articulado",1,"H",258
+"Corona resina",1,"H",35
+"Corona resina/metal",1,"H",36
+"Corona acrilico",1,"H",37
+"Corona porcelana",1,"H",38
+"Corona porc/metal",1,"H",39
+"Corona porc/aleac/oro",1,"H",40
+"Corona veneer res/metal",1,"H",41
+"Corona veneer res/oro",1,"H",42
+"Corona veneer porc/metal",1,"H",43
+"Corona veneer porc/aleac/oro",1,"H",44
+"Corona colada metal",1,"H",45
+"Corona colada en oro",1,"H",46
+"Corona de acero",1,"H",47
+"Corona provisoria",1,"H",48
+"Corona Ceromero",1,"H",262
+"Tramo Puente Resina",1,"H",194
+"Tramo Puente Porcelana",1,"H",195
+"Tramo Puente met/resina",1,"H",49
+"Tramo Puente acrilico",1,"H",50
+"Tramo Puente porcelana/metal",1,"H",51
+"Tramo Puente porcelana/aleac/oro",1,"H",52
+"Tramo Puente provisorio",1,"H",53
+"Tramo Puente Ceromero",1,"H",263
+"Remov.acril. h/4 piezas",1,"H",54
+"Remov.acril. + 4 piezas",1,"H",55
+"Remov.CrCo h/4 piezas",1,"H",56
+"Remov.CrCo + 4 piezas",1,"H",57
+"Removible provisoria",1,"H",58
+"Completa superior acrilico",1,"H",59
+"Completa superior resina",1,"H",207
+"Completa superior porcelana",1,"H",208
+"Completa inferior acrilico",1,"H",60
+"Completa inferior resina",1,"H",209
+"Completa inferior porcelana",1,"H",210
+"Parcial inmediata acrilico",1,"H",61
+"Parcial inmediata resina",1,"H",211
+"Parcial inmediata porcelana",1,"H",212
+"Completa inmediata acrilico",1,"H",62
+"Completa inmediata resina",1,"H",213
+"Completa inmediata porcelana",1,"H",214
+"Prot.adhesiva en resina",1,"H",63
+"Prot.adhesiva en porcelana",1,"H",64
+"Ferulizacion resina",1,"H",65
+"Ferulizacion porcelana",1,"H",66
+"Ferulizacion oro",1,"H",67
+"Ferulizacion metal",1,"H",68
+"Atache",1,"H",181
+"Retenedor",1,"H",182
+"Registro de oclusion",1,"H",183
+"Toma de impresion",1,"H",184
+"Placa interoclusal estabilizadora",1,"H",205
+"Placa interoclusal reposicionadora",1,"H",206
+"Rebasado de protesis",1,"H",185
+"Compostura simple",1,"H",70
+"Compostura con impresion",1,"H",71
+"Agregado diente o retenedor",1,"H",72
+"Agregado de subsiguiente",1,"H",73
+"Retiro definitivo corona",1,"H",74
+"Retiro definitivo puente",1,"H",75
+"Acondicionamiento de tejidos",1,"H",76
+"Supraestructura Recta",1,"H",187
+"Supraestructura angular",1,"H",188
+"Supraestructura Ball atach",1,"H",189
+"Overdenture metal",1,"H",190
+"Overdenture aleacion oro",1,"H",191
+"Barra colada",1,"H",192
+"Barra Dolder",1,"H",193
+"Pilar implante subperiostico",1,"H",186
+"Blanqueo dentario en consultorio",1,"H",69
+"Blanqueo dentario c/cubeta",1,"H",201
+"Blanqueo dentario ambulatorio",1,"H",215
+"Retencion Ball atach",1,"H",196
+"Retencion imanes",1,"H",197
+"PROTESIS SOBRE IMPLANTES",0,"T",1000
+"Corona porcelana s/implante",1,"H",231
+"Corona porcelana/metal s/implante",1,"H",232
+"Corona porcelana/oro s/implante",1,"H",233
+"Tramo puente porcelana s/implante",1,"H",234
+"Tramo puente porcelana/metal s/implante",1,"H",235
+"Tramo puente porcelana/oro s/implante",1,"H",236
+"Tramo puente ceromero s/implante",1,"H",264
+"PROTESIS PORCELANA INYECTADA",0,"T",1000
+"Incrustacion porcelana inyectada",1,"H",237
+"Corona porcelana inyectada",1,"H",238
+"Perno porcelana inyectada",1,"H",239
+"Carillas porcelana inyectada",1,"H",240
+"Tramo puente porcelana inyectada",1,"H",241
+"PREVENCION",0,"T",1000
+"Tartrectomia y cepillado",1,"H",77
+"Aplicacion de fluor",1,"H",78
+"Deteccion de placa bacteriana",1,"H",79
+"Sellantes de puntos y fisuras",1,"H",80
+"ODONTOPEDIATRIA",0,"T",1000
+"Motivacion en niños",1,"H",81
+"Trat.con formocresol",1,"H",82
+"Instruccion de higiene oral",1,"H",83
+"Mantenedor de espacios fijo",1,"H",180
+"Mantenedor espacios remov.",1,"H",200
+"Tratamiento c/cariostatico",1,"H",261
+"TC.Anterior",1,"H",227
+"TC.Molar",1,"H",260
+"Extraccion temporario movil",1,"H",228
+"Extraccion temporario s/reabsorsion",1,"H",229
+"PERIODONCIA",0,"T",1000
+"Rasp/alis.sup post.Gingivitis",1,"H",84
+"Rasp/alis.sup anter.Gingivitis",1,"H",85
+"Rasp/alis.inf post.Gingivitis",1,"H",86
+"Rasp/alis.inf anter.Gingivitis",1,"H",87
+"Rasp/alis.sup post.Periodontitis",1,"H",88
+"Rasp/alis.sup anter.Periodontitis",1,"H",89
+"Rasp/alis.inf post.Periodontitis",1,"H",90
+"Rasp/alis.inf anter.Periodontitis",1,"H",91
+"Gingivectomia",1,"H",92
+"Gingivoplastia",1,"H",93
+"Colgajos",1,"H",94
+"Injerto periodontal",1,"H",95
+"Cu¤as distales",1,"H",96
+"Alargamiento corona clinica",1,"H",97
+"Regeneracion guiada",1,"H",98
+"Tratamiento con laser periodoncia",1,"H",249
+"RADIOLOGIA",0,"T",1000
+"Radiografia periapical",1,"H",99
+"Radiografia Bitewin",1,"H",100
+"Radiografia oclusal 6x8",1,"H",101
+"Radiografia media Seriada",1,"H",102
+"Radiografia Seriada",1,"H",103
+"Radiografia Panor mica",1,"H",104
+"Radiografia extraoral",1,"H",105
+"Radiografia Temp-mandib.lateral",1,"H",106
+"Radiografia Temp-mandib.total",1,"H",107
+"Sialografia",1,"H",108
+"Tomografia",1,"H",109
+"Teleradiografia",1,"H",259
+"CIRUGIA",0,"T",1000
+"Tratamiento con laser cirugia",1,"H",252
+"Extraccion dentaria",1,"H",110
+"Extraccion compleja",1,"H",257
+"Extraccion resto radicular",1,"H",111
+"Extraccion de retenido",1,"H",112
+"Extraccion de implante",1,"H",113
+"Extraccion supernumerario",1,"H",230
+"Apicectomia",1,"H",114
+"Frenectomia",1,"H",115
+"Regularizacion osea",1,"H",116
+"Relleno oseo",1,"H",117
+"Radectomia",1,"H",118
+"Odontoseccion",1,"H",119
+"Reimplante dentario",1,"H",120
+"Vestibuloplastia",1,"H",121
+"Biopsia",1,"H",122
+"Plastica Buco-sinusal",1,"H",123
+"Alveolectomia",1,"H",124
+"Insicion y drenaje",1,"H",125
+"Liberacion de retenido",1,"H",126
+"IMPLANTE",0,"T",1000
+"Implante radicular/tornillo",1,"H",127
+"Lamina simple ",1,"H",128
+"Lamina multiple",1,"H",129
+"Implante subperiostico parcial",1,"H",130
+"Implante subperiostico total",1,"H",131
+"ORTODONCIA",0,"T",1000
+"Fase 0",1,"H",216
+"Fase 0 cuota",1,"H",265
+"Fase 1",1,"H",217
+"Fase 1 cuota",1,"H",266
+"Fase 2",1,"H",218
+"Fase 2 cuota",1,"H",267
+"Aparatologia inicial",1,"H",276
+"Retiro aparatos",1,"H",268
+"Placa contencion ",1,"H",273
+"Placa relajacion ",1,"H",274
+"Reparacion placa",1,"H",269
+"Reposicion arcos ",1,"H",270
+"Reposicion bandas ",1,"H",271
+"Reposicion brackets ",1,"H",272
+"Microimplantes ",1,"H",275
+"Caries",0,"S",132
+"Caries penetrante",0,"S",133
+"Fractura coronaria horizontal",0,"S",134
+"Fractura coronaria vertical",0,"S",135
+"Fract.radicular horiz.apical",0,"S",136
+"Fractura radicular vertical",0,"S",137
+"Abrasion incisal",0,"S",141
+"Abrasion oclusal",0,"S",142
+"Abrasion vestibular",0,"S",143
+"Anomalia tejido piel labial",0,"S",144
+"Anomalia tejido-comisura",0,"S",145
+"Anomalia tejido-semimucosa labial",0,"S",146
+"Anomalia mucosa labial y yugal",0,"S",147
+"Anomalia tejido-surco vestibular",0,"S",148
+"Anomalia tejido-paladar duro",0,"S",149
+"Anomalia tejido-paladar blando",0,"S",150
+"Anomalia tejido-piso de la boca",0,"S",151
+"Anomalia tejido-dorso de lengua",0,"S",152
+"Anomalia tejido-cara de lengua",0,"S",153
+"Anomalia tejido-borde de lengua",0,"S",154
+"Anomalia tejido-punta de lengua",0,"S",155
+"Ausente",0,"S",156
+"Ausente rango",0,"S",157
+"Resto radicular",0,"S",158
+"Retenida",0,"S",159
+"Agenesia",0,"S",160
+"Mesializacion",0,"S",161
+"A extraer pieza",0,"S",162
+"Hiperhemia",0,"S",163
+"Pulpitis",0,"S",164
+"Necrosis",0,"S",165
+"Absceso",0,"S",166
+"Granuloma",0,"S",167
+"Quiste",0,"S",168
+"Duda",0,"S",169
+"T.C. por fin protetico",0,"S",170
+"T.C. Preexistente",0,"S",171
+"Hemorragia",0,"S",172
+"Movilidad",0,"S",173
+"Lesion furcal",0,"S",174
+"Puntos y fisuras",0,"S",175
+"Ficha de denticion mixta",0,"S",176
+"Avulsionada",0,"S",177
+"Erupcionada",0,"S",178
+"Pieza en erupcion",0,"S",179
+"Fract.radicular horiz.media",0,"S",198
+"Fract.radicular horiz.cervical",0,"S",199
+"Caries rampante",0,"S",219
+"Caries x mamadera",0,"S",220
+"Avulsion x traumatismo",0,"S",221
+"Intrusion",0,"S",222
+"Extrusion",0,"S",223
+"Luxacion vestibular",0,"S",224
+"Luxacion palatina",0,"S",225
+"Periodontitis juvenil",0,"S",242
+"Periodontitis avance rapido",0,"S",243
+"Periodontitis grave",0,"S",244
+"Periodontitis moderada",0,"S",245
+"Periodontitis leve",0,"S",246
+"Gingivitis",0,"S",247
+"Gingivitis necrosante",0,"S",248
